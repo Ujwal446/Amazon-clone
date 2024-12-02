@@ -1,4 +1,4 @@
-# Amazon-clone
+# Amazon
 <br>
 Author-ujwal alone
 
